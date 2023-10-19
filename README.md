@@ -115,7 +115,7 @@ Aprender o básico sobre contribuição no GitHub.
     > Ejemplo: `elidianaandrade.md` <br>
 6. Desarrolla tu perfil. Para eso, puedes ver ejemplos en la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) y añadir algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
     > **Nota:** Usa los otros ejemplos como inspiración y no como copia.
-7. Agrega tus cambios al "área de preparación" con el comando `git add community/TU_USERNAME.md`;
+7. Agrega tus cambios al "área de preparación" con el comando `git add community/TU_USERNAME.md`; testando alteração
 8. Crea un commit y añade un mensaje indicando la adición de tu perfil `git commit -m"feat: add TU_USERNAME profile"`;
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
